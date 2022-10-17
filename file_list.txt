@@ -1,0 +1,10 @@
+total 2.0K
+-rw-r--r-- 1 ReJo 197121  0 10월 17 18:00 file_list.txt
+-rw-r--r-- 1 ReJo 197121 21 10월 17 17:58 hello_world.py
+drwxr-xr-x 1 ReJo 197121  0 10월 17 17:59 new_directory
+-rw-r--r-- 1 ReJo 197121 31 10월 17 17:58 README.md
+total 3.0K
+-rw-r--r-- 1 ReJo 197121 236 10월 17 18:00 file_list.txt
+-rw-r--r-- 1 ReJo 197121  21 10월 17 17:58 hello_world.py
+drwxr-xr-x 1 ReJo 197121   0 10월 17 17:59 new_directory
+-rw-r--r-- 1 ReJo 197121  31 10월 17 17:58 README.md

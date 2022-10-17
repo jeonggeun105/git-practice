@@ -1,0 +1,161 @@
+    1  git init
+    2  git remote add origin https://github.com/r3j0/HTML-Practice.git
+    3  git status
+    4  git init
+    5  git remote add origin https://github.com/r3j0/C-Practice.git
+    6  git remote -v
+    7  git pull origin master
+    8  git init
+    9  git remote add origin https://github.com/r3j0/Baekjoon.git
+   10  git remote -v
+   11  git pull origin master
+   12  git init
+   13  git 
+   14  git remote
+   15  git remote add origin https://github.com/r3j0/Python-Practice.git
+   16  git remote -v
+   17  git pull origin master
+   18  git push -u origin master
+   19  git init
+   20  git remote add origin https://github.com/r3j0/OMOK.git
+   21  git remote -v
+   22  git status
+   23  git add .
+   24  git commit -m "first commit"
+   25  git push -u origin master
+   26  git init
+   27  git remote add origin https://github.com/r3j0/r3j0.github.io.git
+   28  git remote -v
+   29  git init
+   30  git remote add origin https://github.com/r3j0/OMOK.git
+   31  git remote -v
+   32  git pull origin master
+   33  git init
+   34  git remote add origin https://github.com/r3j0/Wordle.git
+   35  git remote -v
+   36  git init
+   37  git clone https://github.com/r3j0/TRPG.git
+   38  git init
+   39  git remote add origin https://github.com/r3j0/TRPG.git
+   40  git remote -v
+   41  git pull origin master
+   42  git init
+   43  git remote -v origin [200~https://github.com/r3j0/ReadyforAce.git~
+   44  git remote add origin https://github.com/r3j0/ReadyforAce.git
+   45  git status
+   46  git add .
+   47  git commit -m "first commit"
+   48  git push 
+   49  git push --set-upstream origin master
+   50  git init
+   51  git remote -v origin master https://github.com/r3j0/Practice.git
+   52  git remote add origin https://github.com/r3j0/Practice.git
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m "first commit"
+   57  git push
+   58  git push --set-upstream origin master
+   59  git init
+   60  git remote add origin https://github.com/r3j0/Blackjack.git
+   61  git remote -v
+   62  git status
+   63  git add .
+   64  git commit -m "first commit"
+   65  git push
+   66  git push --set-upstream origin master
+   67  git init
+   68  git remote add origin https://github.com/r3j0/r3j0.github.io.git
+   69  git remote -v
+   70  git init
+   71  git clone https://github.com/r3j0/TIL.git
+   72  git remote
+   73  git status
+   74  git remote add origin https://github.com/r3j0/TIL.git
+   75  git init
+   76  git remote add origin https://github.com/r3j0/TIL.git
+   77  git pull
+   78  git branch --set-upstream-to=origin/main master
+   79  git pull main
+   80  git pull origin main
+   81  git status
+   82  git pull
+   83  git branch --set-upstream-to=origin/origin main
+   84  git branch --set-upstream-to=origin/main
+   85  git branch --set-upstream-to=origin main
+   86  git branch --set-upstream-to=origin/main main
+   87  git status
+   88  git branch --set-upstream-to=origin/main
+   89  git pull
+   90  git init
+   91  git remote add origin https://github.com/r3j0/TIL.git
+   92  git remote -v
+   93  git status
+   94  git add .
+   95  git commit -m "first commit"
+   96  git push
+   97  git push --set-upstream origin master
+   98  git init
+   99  git remote add origin https://github.com/r3j0/TIL.git
+  100  git remote -v
+  101  git init
+  102  git remote add origin https://github.com/r3j0/Fetra.git
+  103  git remote -v
+  104  git status
+  105  git add .
+  106  git commit -m "first commit"
+  107  git push
+  108  git push --set-upstream origin master
+  109  pwd
+  110  cd /c/Users/박정근/Desktop/Univ
+  111  ls
+  112  pwd
+  113  ls -l
+  114  ls -la
+  115  ls
+  116  ls -l
+  117  -ls -lh
+  118  ls -lh
+  119  ls -la
+  120  git clone 
+  121  git clone https://github.com/r3j0/CodingDocs
+  122  git clone https://github.com/r3j0/CodingDocs
+  123  git clone https://github.com/r3j0/CodingDocs
+  124  git clone https://github.com/r3j0/r3j0.github.io
+  125  git clone https://github.com/r3j0/r3j0.github.io
+  126  ls
+  127  cd Desktop
+  128  ls -lh
+  129  ls -lh > fl.txt
+  130  cat fl.txt
+  131  ls -lh >> fl.txt
+  132  cat fl.txt
+  133  cat in.txt
+  134  cat in.txt
+  135  sort < in.txt > out.txt
+  136  cat out.txt
+  137  git remote add origin https://github.com/jeonggeun105/git-practice.git
+  138  git init
+  139  git remote add origin https://github.com/jeonggeun105/git-practice.git
+  140  git push
+  141  git push -u origin main
+  142  git remote -v
+  143  git status
+  144  git status
+  145  git add .
+  146  git commit -m "first commit"
+  147  git push -u origin main
+  148  git config
+  149  git config -v
+  150  git config -global
+  151  git config --global
+  152   /usr/bin/env C:\\Users\\박정근\\AppData\\Local\\Programs\\Python\\Python310\\python.exe c:\\Users\\박정근\\.vscode\\extensions\\ms-python.python-2022.16.1\\pythonFiles\\lib\\python\\debugpy\\adapter/../..\\debugpy\\launcher 64643 -- c:\\Users\\박정근\\Desktop\\Univ\\오픈소스SW\\oss\\hello_world.py 
+  153  mkdir new_directory
+  154  ls -lh > file_list.txt
+  155  cat file_list.txt
+  156  ls -lh >> file_list.txt
+  157  sort < words.txt > sorted_words.txt
+  158  cat sorted_words.txt 
+  159  nano myscript.sh
+  160  sh myscript.sh
+  161  history > history_command.txt
